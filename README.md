@@ -1,7 +1,7 @@
 # TicTacToeDoubleDQN
 
 ## 🎯 Project Overview
-This repository implements a Double Deep Q-Network (Double DQN) agent for playing TicTacToe using PyTorch and Gymnasium. The agent learns to avoid illegal moves and outperforms a random opponent, following the requirements of CPEG 591 Assignment #6 (Spring 2025).
+This repository implements a Double Deep Q-Network (Double DQN) agent for playing TicTacToe using PyTorch and Gymnasium. The agent learns to avoid illegal moves and outperforms a random opponent.
 
 ## ⚙️ Setup & Installation
 1. **Clone the repository**
