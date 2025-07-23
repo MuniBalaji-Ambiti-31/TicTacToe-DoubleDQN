@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F553CF6-8613-44B8-9AE5-C96512ABAC5F}|TicTacToeDoubleDQN_1223421.pyproj|C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9F553CF6-8613-44B8-9AE5-C96512ABAC5F}|TicTacToeDoubleDQN_1223421.pyproj|solutionrelative:TicTacToeDoubleDQN.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F553CF6-8613-44B8-9AE5-C96512ABAC5F}|TicTacToeDoubleDQN_1223421.pyproj|C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\ReplayMemory.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9F553CF6-8613-44B8-9AE5-C96512ABAC5F}|TicTacToeDoubleDQN_1223421.pyproj|solutionrelative:ReplayMemory.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F553CF6-8613-44B8-9AE5-C96512ABAC5F}|TicTacToeDoubleDQN_1223421.pyproj|C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\Network.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9F553CF6-8613-44B8-9AE5-C96512ABAC5F}|TicTacToeDoubleDQN_1223421.pyproj|solutionrelative:Network.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F553CF6-8613-44B8-9AE5-C96512ABAC5F}|TicTacToeDoubleDQN_1223421.pyproj|C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\TicTacToe.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9F553CF6-8613-44B8-9AE5-C96512ABAC5F}|TicTacToeDoubleDQN_1223421.pyproj|solutionrelative:TicTacToe.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F553CF6-8613-44B8-9AE5-C96512ABAC5F}|TicTacToeDoubleDQN_1223421.pyproj|C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\train.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9F553CF6-8613-44B8-9AE5-C96512ABAC5F}|TicTacToeDoubleDQN_1223421.pyproj|solutionrelative:train.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicTacToeDoubleDQN.py",
+              "DocumentMoniker": "C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN.py",
+              "RelativeDocumentMoniker": "TicTacToeDoubleDQN.py",
+              "ToolTip": "C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN.py",
+              "RelativeToolTip": "TicTacToeDoubleDQN.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-21T14:01:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "train.py",
+              "DocumentMoniker": "C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\train.py",
+              "RelativeDocumentMoniker": "train.py",
+              "ToolTip": "C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\train.py",
+              "RelativeToolTip": "train.py",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-21T14:00:14.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReplayMemory.py",
+              "DocumentMoniker": "C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\ReplayMemory.py",
+              "RelativeDocumentMoniker": "ReplayMemory.py",
+              "ToolTip": "C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\ReplayMemory.py",
+              "RelativeToolTip": "ReplayMemory.py",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-21T13:58:59.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TicTacToe.py",
+              "DocumentMoniker": "C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\TicTacToe.py",
+              "RelativeDocumentMoniker": "TicTacToe.py",
+              "ToolTip": "C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\TicTacToe.py",
+              "RelativeToolTip": "TicTacToe.py",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-21T13:58:07.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Network.py",
+              "DocumentMoniker": "C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\Network.py",
+              "RelativeDocumentMoniker": "Network.py",
+              "ToolTip": "C:\\Users\\saimu\\OneDrive\\Desktop\\TicTacToeDoubleDQN_1223421\\TicTacToeDoubleDQN_1223421\\Network.py",
+              "RelativeToolTip": "Network.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-03-21T13:56:47.765Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
